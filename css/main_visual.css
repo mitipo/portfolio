@@ -947,7 +947,6 @@ body {
   .line02 {
     margin-left: -130px;
     max-width: 300px;
-    margin-top: -20%;
   }
   .about_img_head {
     width: 120px;
@@ -988,9 +987,7 @@ body {
   }
   .footer {
     position: relative;
-    max-width: 375px;
     width: 100%;
-    margin-top: -50%;
   }
   .footer_contact {
     position: relative;
@@ -1002,6 +999,9 @@ body {
   }
   .copy {
     font-size: 10px;
+  }
+  #project_none00 {
+    display: none;
   }
 }
 /* }
